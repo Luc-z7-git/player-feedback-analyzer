@@ -1,0 +1,17 @@
+# Environnement virtuel
+venv/
+.venv/
+
+# Clé API secrète — NE JAMAIS COMMITTER
+.env
+
+# Fichier de sortie genere
+resultats_analyse.csv
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code
+.vscode/
