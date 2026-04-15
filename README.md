@@ -1,7 +1,6 @@
 # Player Feedback Analyzer - AI Pipeline
 
 ## Presentation du projet
-Ce projet est un prototype de pipeline de donnees developpe dans le cadre de ma candidature pour le poste de Charge de projets IA. 
 
 L'objectif est d'automatiser l'analyse de retours joueurs (Player Insights) en utilisant l'Intelligence Artificielle generative. Le script lit des avis bruts au format CSV, interroge un modele de langage (LLM) pour extraire le sentiment global (Positif/Negatif/Neutre) ainsi qu'un mot-cle principal, puis exporte les donnees structurees pour une integration future dans un tableau de bord.
 
